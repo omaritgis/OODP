@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"calculations","l":"Calculations"},{"p":"dataAccessObject","l":"DataDAO"},{"p":"geometry","l":"Edge"},{"p":"graphGUI","l":"GUI"},{"p":"graphGUI","l":"MainWindow"},{"p":"geometry","l":"Node"},{"p":"geometry","l":"WeightedGraph"}]
